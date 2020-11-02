@@ -1715,6 +1715,13 @@
   dependencies:
     "@types/superagent" "*"
 
+"@types/tape@^4.13.0":
+  version "4.13.0"
+  resolved "https://registry.npmjs.org/@types/tape/-/tape-4.13.0.tgz#7a3f656f78a7eeee962fe4c8bedf016061e2d0ea"
+  integrity sha512-0V8cKowBdsiA9nbxAg7531sF2cdPZNiUogcfIUeUGm+bejUBE/bvibz3rH36iQP9bQjO/sOzFwU97/uC5mCyoA==
+  dependencies:
+    "@types/node" "*"
+
 "@types/tar-stream@^2.1.0":
   version "2.1.0"
   resolved "https://registry.npmjs.org/@types/tar-stream/-/tar-stream-2.1.0.tgz#884b1cbe6c35ff459c05a5eba86b406805943ef6"
